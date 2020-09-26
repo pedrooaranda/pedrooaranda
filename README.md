@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pedro Emilio 
 
-### Contact me:📱 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&?style=for-the-badge&logoColor=white)](https://www.instagram.com/_pedroo_mello/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&style=?style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543996819949)
+### Contact me:📱 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&?style=flat-square&logoColor=white)](https://www.instagram.com/_pedroo_mello/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&style=?style=flat-square&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5543996819949)
 
 <!--
 **pedrinbrabin/pedrinbrabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
