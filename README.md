@@ -8,7 +8,4 @@
 
 - 💻 I'm currently working in the Web Development Area
 - 🌱 I'm currently learning new technologies to become a great developer in the future
-- 👯 I'm looking to collaborate with several companies, providing services for them
-- 🤔 I'm looking for help with people who have the same goals as mine.
-- 💬 Ask me about anything
-- ⚡ Fun fact: 
+- 🎮 Fun fact: 
