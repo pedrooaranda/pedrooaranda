@@ -7,6 +7,7 @@
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-BF40BF?logo=apacherocketmq&style=flat-square&logoColor=white)](https://app.rocketseat.com.br/me/pedro-aranda-05436)
 [![Linkedin](https://img.shields.io/badge/Linkedin-6495ED?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/pedro-aranda-242112210)
 
-- 💻 I'm currently working in the Web Development Area
-- 🌱 I'm currently learning new technologies to become a great developer in the future
+- 💻 it's not a job, it's my lifestyle
+- 📚 I'm currently learning new technologies to become a great developer in the future
+- 
 - 🎮 Fun fact: 
