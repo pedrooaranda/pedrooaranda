@@ -9,5 +9,4 @@
 
 - 💻 it's not a job, it's my lifestyle
 - 📚 I'm currently learning new technologies to become a great developer in the future
-- 
-- 🎮 Fun fact: 
+
