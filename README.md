@@ -1,4 +1,10 @@
-### Hello Everyone 👋, I'm Pedro Mello 
+### Hii! I'm Pedro Mello 
+
+### it's not a job, it's my lifestyle
+
+<div>
+  <a href="https://github.com/pedroomello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroomello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
 ### 📱 How to reach me: 
 
@@ -7,6 +13,4 @@
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-BF40BF?logo=apacherocketmq&style=flat-square&logoColor=white)](https://app.rocketseat.com.br/me/pedro-aranda-05436)
 [![Linkedin](https://img.shields.io/badge/Linkedin-6495ED?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/pedro-aranda-242112210)
 
-- 💻 it's not a job, it's my lifestyle
-- 📚 I'm currently learning new technologies to become a great developer in the future
 
