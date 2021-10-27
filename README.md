@@ -1,6 +1,6 @@
 ### Hii! I'm Pedro Mello 
 
-### it's not a job, it's my lifestyle
+## it's not a job, it's my lifestyle
 
 <div>
   <a href="https://github.com/pedroomello">
