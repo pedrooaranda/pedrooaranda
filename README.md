@@ -1,4 +1,4 @@
-## Hii! I'm Pedro Mello 
+## Hii! I'm Pedro Aranda
 
 ### ✨ it's not a job, it's my lifestyle ✨
 
