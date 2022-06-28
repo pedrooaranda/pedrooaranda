@@ -8,7 +8,6 @@
       <img align="center" alt="Pedro-Ts" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       <img align="center" alt="Pedro-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       <img align="center" alt="Pedro-HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-      <img align="center" alt="Pedro-Fb" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
       <img align="center" alt="Pedro-Node" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
